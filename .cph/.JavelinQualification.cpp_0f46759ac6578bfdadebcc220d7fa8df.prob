@@ -1,0 +1,1 @@
+{"name":"Local: JavelinQualification","url":"c:\\Users\\nisha\\OneDrive\\Desktop\\vs\\CPP\\JavelinQualification.cpp","tests":[{"id":1702914764462,"input":"3\n1 4 2\n16 8 10\n14 15 9","output":"Draw\nBob\nAlice"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisha\\OneDrive\\Desktop\\vs\\CPP\\JavelinQualification.cpp","group":"local","local":true}

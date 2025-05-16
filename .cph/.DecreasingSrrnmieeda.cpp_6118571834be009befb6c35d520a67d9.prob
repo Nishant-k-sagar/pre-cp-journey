@@ -1,0 +1,1 @@
+{"name":"Local: DecreasingSrrnmieeda","url":"c:\\Users\\nisha\\OneDrive\\Desktop\\CPP\\DecreasingSrrnmieeda.cpp","tests":[{"id":1746162191012,"input":"2\n4 6\n1 2","output":"6\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisha\\OneDrive\\Desktop\\CPP\\DecreasingSrrnmieeda.cpp","group":"local","local":true}

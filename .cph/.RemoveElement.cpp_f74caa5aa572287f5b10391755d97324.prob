@@ -1,0 +1,1 @@
+{"name":"Local: RemoveElement","url":"c:\\Users\\nisha\\OneDrive\\Desktop\\CPP\\RemoveElement.cpp","tests":[{"id":1746098278171,"input":"3\n1 3\n1\n3 3\n2 2 2\n4 7\n1 4 3 5","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisha\\OneDrive\\Desktop\\CPP\\RemoveElement.cpp","group":"local","local":true}

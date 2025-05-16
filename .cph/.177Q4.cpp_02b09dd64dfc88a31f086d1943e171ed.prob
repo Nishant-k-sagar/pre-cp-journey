@@ -1,0 +1,1 @@
+{"name":"Local: 177Q4","url":"c:\\Users\\nisha\\OneDrive\\Desktop\\CPP\\177Q4.cpp","tests":[{"id":1741789937408,"input":"7\n1\n2\n3\n4\n5\n6\n100000","output":"1\n3\n4\n10\n13\n26\n83334583375001"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisha\\OneDrive\\Desktop\\CPP\\177Q4.cpp","group":"local","local":true}

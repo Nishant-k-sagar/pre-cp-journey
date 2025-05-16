@@ -1,0 +1,1 @@
+{"name":"Local: myntra2","url":"c:\\Users\\nisha\\OneDrive\\Desktop\\CPP\\myntra2.cpp","tests":[{"id":1745253720008,"input":"2 3 1 2 3 -1 -1 4 -1","output":"YES"},{"id":1745253882254,"input":"2 0 1 2 3","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisha\\OneDrive\\Desktop\\CPP\\myntra2.cpp","group":"local","local":true}

@@ -1,0 +1,15 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "sstream": "cpp",
+        "regex": "cpp",
+        "ostream": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "cstdlib": "cpp"
+    },
+    "cph.general.defaultLanguageTemplateFileLocation": "C:\\Users\\nisha\\OneDrive\\Desktop\\CPP\\A2OJ",
+    "cph.general.firstTime": false,
+    "cph.general.saveLocation": ""
+}

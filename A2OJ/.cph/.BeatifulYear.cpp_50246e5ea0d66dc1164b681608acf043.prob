@@ -1,0 +1,1 @@
+{"name":"Local: BeatifulYear","url":"c:\\Users\\nisha\\OneDrive\\Desktop\\CPP\\A2JO\\BeatifulYear.cpp","tests":[{"id":1708774348352,"input":"1987","output":"2013"},{"id":1708774361160,"input":"2013","output":"2014"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisha\\OneDrive\\Desktop\\CPP\\A2JO\\BeatifulYear.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: FairShare","url":"c:\\Users\\nisha\\OneDrive\\Desktop\\vs\\CPP\\FairShare.cpp","tests":[{"id":1702478732828,"input":"3\n500 1\n999 9\n1 4","output":"250\n108\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisha\\OneDrive\\Desktop\\vs\\CPP\\FairShare.cpp","group":"local","local":true}

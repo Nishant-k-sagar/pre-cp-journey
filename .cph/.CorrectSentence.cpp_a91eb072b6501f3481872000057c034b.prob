@@ -1,0 +1,1 @@
+{"name":"Local: CorrectSentence","url":"c:\\Users\\nisha\\OneDrive\\Desktop\\vs\\CPP\\CorrectSentence.cpp","tests":[{"id":1702064172730,"input":"3\n1 aN\n2 ab NO\n3 A N D","output":"NO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisha\\OneDrive\\Desktop\\vs\\CPP\\CorrectSentence.cpp","group":"local","local":true}

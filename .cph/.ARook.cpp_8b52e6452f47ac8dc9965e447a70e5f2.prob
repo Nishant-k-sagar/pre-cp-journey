@@ -1,0 +1,1 @@
+{"name":"Local: ARook","url":"c:\\Users\\nisha\\OneDrive\\Desktop\\vs\\CPP\\ARook.cpp","tests":[{"id":1701787890412,"input":"1\nd5","output":"d1\nd2\nb5\ng5\nh5\nd3\ne5\nf5\nd8\na5\nd6\nd7\nc5\nd4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisha\\OneDrive\\Desktop\\vs\\CPP\\ARook.cpp","group":"local","local":true}

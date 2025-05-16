@@ -1,0 +1,1 @@
+{"name":"Local: 185Q1Q2","url":"c:\\Users\\nisha\\OneDrive\\Desktop\\CPP\\185Q1Q2.cpp","tests":[{"id":1746629189355,"input":"3\n3 5\n5 3\n5 18","output":"15 54 8\n-1\n9 210 72 30 57"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisha\\OneDrive\\Desktop\\CPP\\185Q1Q2.cpp","group":"local","local":true}

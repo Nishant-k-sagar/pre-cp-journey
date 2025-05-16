@@ -1,0 +1,1 @@
+{"name":"Local: FoodChain","url":"c:\\Users\\nisha\\OneDrive\\Desktop\\vs\\CPP\\FoodChain.cpp","tests":[{"id":1702399903062,"input":"3\n5 3\n6 7\n10 2","output":"2\n1\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisha\\OneDrive\\Desktop\\vs\\CPP\\FoodChain.cpp","group":"local","local":true}

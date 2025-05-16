@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "../../vs"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdlib.h": "c",
+			"iostream": "cpp",
+			"valarray": "cpp",
+			"array": "cpp",
+			"bitset": "cpp",
+			"initializer_list": "cpp",
+			"regex": "cpp",
+			"utility": "cpp",
+			"ostream": "cpp",
+			"algorithm": "cpp",
+			"random": "cpp",
+			"fstream": "cpp",
+			"functional": "cpp",
+			"shared_mutex": "cpp",
+			"sstream": "cpp",
+			"tuple": "cpp"
+		},
+		"bitoAI.codeCompletion.enableAutoCompletion": true,
+		"bitoAI.codeCompletion.enableCommentToCode": true
+	}
+}

@@ -1,0 +1,1 @@
+{"name":"Local: a6","url":"c:\\Users\\nisha\\OneDrive\\Desktop\\vs\\CPP\\a6.cpp","tests":[{"id":1704393565517,"input":"1 100\n-5 -150","output":"Dominater"},{"id":1704393591263,"input":"2636 2536\n-116 -11","output":"Everule"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisha\\OneDrive\\Desktop\\vs\\CPP\\a6.cpp","group":"local","local":true}

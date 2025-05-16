@@ -1,0 +1,1 @@
+{"name":"Local: ArrayHalves","url":"c:\\Users\\nisha\\OneDrive\\Desktop\\CPP\\ArrayHalves.cpp","tests":[{"id":1746094775124,"input":"3\n2\n3 2 1 4\n3\n1 2 3 4 5 6\n3\n6 5 4 3 2 1","output":"2\n0\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisha\\OneDrive\\Desktop\\CPP\\ArrayHalves.cpp","group":"local","local":true}
